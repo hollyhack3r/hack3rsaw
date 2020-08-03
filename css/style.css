@@ -492,7 +492,7 @@ form:hover .form-btn button{
 
 /*******************Media Queries**********************************/
 
-@media(max-width: 768px){
+@media(max-width: 576px){
 	.nav-item{
 		text-align: center!important;
 	}
@@ -539,7 +539,7 @@ form:hover .form-btn button{
 	}
 }
 
-@media(max-width: 992px){
+@media(max-width: 768px){
 	.service-btn a{
 		margin: 0;
 	}
